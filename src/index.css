@@ -1,0 +1,62 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.head{
+    background: linear-gradient(to top, #ffffff, rgba(255, 208, 219, 0.804));
+  
+}
+.hero{
+  margin-left: 55px;
+  margin-top: 120px;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+#aboutimg{
+  
+  height: 15rem;
+}
+.img1{
+  margin-top: 70px;
+  height: 14rem;
+  width: auto;
+  align-items: center;
+ 
+}
+.skillcolor{
+  margin-top: 50px;
+  background-color: rgb(254, 235, 245);
+}
+
+.skillhead{
+  margin-top: 10px;
+  text-align: center;
+}
+.skillfont{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+}
+.portcolor{
+  background-color: rgb(255, 229, 233);
+}
+.left{
+  text-align: left;
+}
+.acolor{
+  background-color: rgb(252, 240, 252);
+}
+.ccolor{
+  background-color: rgba(255, 205, 226, 0.551)
+}
+.button1{
+  width: 27rem;
+}
+.conhead{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 55px;
+  
+}
+.login{
+  width: 20rem;
+}
